@@ -1,5 +1,5 @@
-const contractAddress = "0xE69635EDfFC63328372026112F3c1E69e7857b58"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xc49CdD040B121cCD3Aa6fD808eDf8F510e8f6836"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the WhimsyChameleon TEST NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
